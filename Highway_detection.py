@@ -1,4 +1,4 @@
-# high way detection machine
+# highway detection machine
 high_way = int(input('Enter a number: '))
 
 if high_way >= 1 and high_way <= 99:
